@@ -1,3 +1,8 @@
+"""
+references:
+https://github.com/youngsterxyf/mpdp-code
+https://sourcemaking.com/design_patterns/creational_patterns
+"""
 class Frog(object):
 
     def __init__(self, name):
