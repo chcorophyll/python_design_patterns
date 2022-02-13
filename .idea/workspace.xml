@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.adapter">
+  <component name="RunManager" selected="Python.decorator">
     <configuration name="abstract_factory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_design_patterns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factory_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_design_patterns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Creational patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Structural patterns" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Creational patterns/factory_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Structural patterns/decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.decorator" />
         <item itemvalue="Python.adapter" />
         <item itemvalue="Python.prototype" />
         <item itemvalue="Python.builder" />
         <item itemvalue="Python.abstract_factory" />
-        <item itemvalue="Python.factory_method" />
       </list>
     </recent_temporary>
   </component>
