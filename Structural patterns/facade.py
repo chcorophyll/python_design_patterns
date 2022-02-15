@@ -30,7 +30,7 @@ class NetworkServer(object):
     pass
 
 
-class Server(metaclass=ABCMeta):
+class Server(metaclass=ABC Meta):
 
     @abstractmethod
     def __init__(self):
